@@ -1,0 +1,9 @@
+#Data types
+#C.R.B.S
+#Here are variables that hold...
+#...each type of data type
+character = "a"
+realFloat = 22.45
+integer = 555
+Boolean = True
+string = "ABC123!&*"
