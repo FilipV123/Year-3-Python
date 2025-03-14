@@ -1,0 +1,14 @@
+print("WELCOME TO MAD-LIB")
+print("Please answer the following questions")
+print("")
+
+adjective1 = input("Enter an adjective e.g.Small/Broke")
+whysoserious1 = input("Enter why so serious >>> ")
+
+print("")
+print("Here is your MAD-LIB")
+print("")
+print("The word demure is so demure because",adjective1, whysoserious1)
+print("To be demure you need to ask the question why so serious?", whysoserious1, adjective1)
+print("To be weally weally wude you need to be demure", whysoserious1)
+print("no conferring", adjective1)
