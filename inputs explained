@@ -1,0 +1,15 @@
+#Input Explained
+
+#input is another function
+#here is an example
+
+name = str(input("Enter name"))#casting for string
+print("Your name is",name)
+
+age = int(input("Enter age"))#casting for integer
+print("You are",age,"years old")
+
+colour = str(input("Enter your favourite colour"))#casting for string
+print("I love",colour,"as well!")
+
+float = float(input("Enter your favourite decimals"))#casting for float
